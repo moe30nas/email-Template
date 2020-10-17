@@ -1,2 +1,2 @@
 # email-Template
-html email template
+html welcome email template 
